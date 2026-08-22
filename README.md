@@ -19,8 +19,8 @@ Footer similar to the real Netflix site
 ## Folder Structure
 
 Netflix-clone/
-├── index.html
-├── style.css
+├── Netflix-clone.html
+├── netflix.css
 └── images/
 
 ## What I Learned
